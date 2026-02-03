@@ -12,7 +12,7 @@ I'm a beginner and I want to find a partner to learn and develop Java or Python 
 
 ## Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=spring,mysql,redis,rabbitmq,vue,nginx,docker,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,redis,rabbitmq,vue,nginx,docker,git)](https://skillicons.dev)
 
 ## Contribution Graph
 
