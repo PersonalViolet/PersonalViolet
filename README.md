@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a beginner and I want to find a partner to learn and develop Java or Python projects together.
+Do more, say less
 
 ## Persona(language)
 
