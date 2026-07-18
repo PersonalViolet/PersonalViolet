@@ -2,7 +2,7 @@
 
 Do more, say less
 
-## Persona(language)
+## language
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js)](https://skillicons.dev)
 
@@ -15,6 +15,7 @@ Do more, say less
 [![My Skills](https://skillicons.dev/icons?i=spring,mysql,redis,rabbitmq,vue,nginx,docker,git)](https://skillicons.dev)
 
 ## Contribution Graph
+![Violet's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PersonalViolet&show_icons=true&theme=transparent)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PersonalViolet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
