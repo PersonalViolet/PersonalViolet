@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Do more, say less
+want to do everything. 
 
 ## language
 
