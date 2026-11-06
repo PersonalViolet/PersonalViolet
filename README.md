@@ -17,10 +17,6 @@ want to do everything.
 ## Contribution Graph
 ![Violet's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PersonalViolet&show_icons=true&theme=transparent)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PersonalViolet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 
-
 ## State
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=PersonalViolet.VIOLET)
